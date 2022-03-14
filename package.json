@@ -1,0 +1,13 @@
+{
+  "name": "@revgaming/storage",
+  "author": "estagent <estagent@gmail.com>",
+  "version": "1.0.1",
+  "homepage": "https://github.com/estagent/storage",
+  "description": "storage engine",
+  "main": "index.js",
+  "keywords": [
+    "javascript",
+    "helpers"
+  ],
+  "scripts": {}
+}
